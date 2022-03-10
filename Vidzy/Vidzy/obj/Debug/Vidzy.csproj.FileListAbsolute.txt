@@ -1,0 +1,12 @@
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.AssemblyReference.cache
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+C:\Users\jhuli\Downloads\UniceSumar\C# Curso Udemy\Entity_Framework\DbFirst\Exercicio\Vidzy\Vidzy\obj\Debug\Vidzy.pdb

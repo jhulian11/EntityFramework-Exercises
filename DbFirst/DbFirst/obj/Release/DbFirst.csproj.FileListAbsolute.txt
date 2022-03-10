@@ -1,0 +1,12 @@
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\DbFirst.exe.config
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\DbFirst.exe
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\DbFirst.pdb
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\EntityFramework.dll
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\EntityFramework.xml
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\obj\Release\DbFirst.csproj.AssemblyReference.cache
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\obj\Release\DbFirst.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\obj\Release\DbFirst.csproj.CopyComplete
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\obj\Release\DbFirst.exe
+C:\Users\jhuli\source\repos\DbFirst\DbFirst\obj\Release\DbFirst.pdb
