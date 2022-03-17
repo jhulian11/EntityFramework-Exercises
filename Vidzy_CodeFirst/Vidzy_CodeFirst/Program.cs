@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Vidzy_CodeFirst.Exercises;
 
 namespace Vidzy_CodeFirst
 {
@@ -10,7 +11,8 @@ namespace Vidzy_CodeFirst
     {
         static void Main(string[] args)
         {
-            
+            Exercise_LINQ_Query.Exercise();
+           
         }
     }
 }
