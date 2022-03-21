@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.ObjectModel;
+
 
 namespace Vidzy_CodeFirst
 {
@@ -10,7 +12,11 @@ namespace Vidzy_CodeFirst
     {
         public int Id { get; set; }
         public string Name { get; set; }
-
         public IList<Video> Video { get; set; }
+
+        public Genre()
+        {
+            Video = new Collection<Video>();
+        }
     }
 }

@@ -19,14 +19,17 @@ namespace Vidzy_CodeFirst
 
         public DateTime ReleaseDate { get; set; }
 
-        public Genre Genreld { get; set; }
+        public  Genre Genreld { get; set; }
 
         public int Genreldd { get; set; }
 
-        public Classification Classification { get; set; }
+        public  Classification Classification { get; set; }
 
-        public IList<Tag> Tags { get; set; }
+        public  ICollection<Tag> Tags { get; set; }
 
-
+        public Video()
+        {
+            Tags = new HashSet<Tag>();
+        }
     }
 }

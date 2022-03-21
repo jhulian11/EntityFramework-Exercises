@@ -57,6 +57,8 @@
     <Compile Include="EntityConfigurations\TagConfiguration.cs" />
     <Compile Include="EntityConfigurations\VideoConfiguration.cs" />
     <Compile Include="Exercises\Exercise_LINQ_Query.cs" />
+    <Compile Include="Exercises\Exercise_LoadingRelatedObjects.cs" />
+    <Compile Include="Exercises\Exercise_UpdatingData.cs" />
     <Compile Include="Genre.cs" />
     <Compile Include="Migrations\202202202055572_FirstModel.cs" />
     <Compile Include="Migrations\202202202055572_FirstModel.designer.cs">

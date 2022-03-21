@@ -20,15 +20,17 @@ namespace Vidzy_CodeFirst.EntityConfigurations
                 .HasForeignKey(v => v.Genreldd)
                 .WillCascadeOnDelete(false);
 
-            HasMany(v => v.Tags)
+            HasMany(v => v.Tags)              
                 .WithMany(t => t.Videos)
                 .Map(m => 
                 {
                     m.ToTable("VideoTags");
                     m.MapLeftKey("VideoId");
-                    m.MapRightKey("TagId");
+                    m.MapRightKey("TagId");                 
 
                 });
+
+           
          
         }
     }

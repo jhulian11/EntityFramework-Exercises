@@ -10,7 +10,12 @@ namespace Vidzy_CodeFirst
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public IList<Video> Videos { get; set; }
+        public  ICollection<Video> Videos { get; set; }
+
+        public Tag()
+        {
+            Videos = new HashSet<Video>();
+        }
 
     }
 }
